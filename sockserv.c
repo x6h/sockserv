@@ -10,7 +10,7 @@
 #include "helpers.h"
 #include "server.h"
 
-static const char* join_message = "welcome.";
+static const char* join_message = "welcome.\n";
 static const char* port = "7777";
 
 int main(int argc, char* argv[])
